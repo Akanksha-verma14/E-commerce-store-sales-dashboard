@@ -55,7 +55,7 @@ Improves sales forecasting and resource planning.
 Reduces manual reporting by using real-time data refresh and filters in Power BI.
 
 6. Screenshots / Demo
-
+https://github.com/Akanksha-verma14/E-commerce-store-sales-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
 
 
 
