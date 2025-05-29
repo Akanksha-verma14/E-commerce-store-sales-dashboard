@@ -25,7 +25,7 @@ Columns: OrderID, Quantity, Amount, Order Date, CustomerName, State, Profit
 📈 Business Problem
 The company lacks visibility into sales performance, top products, and understand customer behavior, limiting growth opportunities.
 
-.
+
 
 🎯 Goal of the Dashboard: 
 To create interactive visuals and KPIs in Power BI to monitor sales metrics, product trends, and customer insights.
